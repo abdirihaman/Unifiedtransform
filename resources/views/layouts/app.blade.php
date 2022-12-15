@@ -25,8 +25,8 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
    
-    <link href="{{ URL::asset(asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
-    <link href="{{ URL::asset(asset('css/app.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ URL::asset('css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
+    <link href="{{ URL::asset('css/app.css') }}" rel="stylesheet" type="text/css">
 </head>
 <body>
     <div id="app">
