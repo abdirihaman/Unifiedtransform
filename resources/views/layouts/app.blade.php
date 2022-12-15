@@ -27,7 +27,7 @@
    
     <link href="{{ asset('/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css">
     <style>
-    @import url("/bootstrap-icons-1.7.1/font/bootstrap-icons.css");
+    @import url("public/bootstrap-icons-1.7.1/font/bootstrap-icons.css");
 /* @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap'); */
 
 @font-face {
