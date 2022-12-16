@@ -315,9 +315,5 @@ figure.table th, figure.table td {
             @yield('content')
         </main>
     </div>
-
-    <div id="watermark">
-        <p>Unifiedtransform</p>
-    </div>
 </body>
 </html>
